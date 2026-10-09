@@ -1,0 +1,6 @@
+{
+  "name": "UNKNOWN Atelier — Bespoke Leather Maroquinerie",
+  "description": "Quiet luxury bespoke leather goods and archival fashion publication storefront for UNKNOWN Atelier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
